@@ -1,4 +1,4 @@
-# Hello, geeks! 👋
+# Hello, Friend! 👋
 
 
 Hello there my name is Farhan Abdullah Yunus currently i'm doing nothing
