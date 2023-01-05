@@ -20,7 +20,7 @@ Hello there my name is Farhan Abdullah Yunus currently i'm doing nothing
 An delusional man who loves to eat, exercise at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Gmail](farhanabdullah523@gmail.com) 
+- [Gmail](gmail) 
 
 
 
