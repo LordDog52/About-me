@@ -1,5 +1,5 @@
 
-Hello there my name is Farhan Abdullah Yunus currently i'm doing nothing
+
 
 [![Lord Dog stats](https://github-readme-stats.vercel.app/api?username=LordDog52)](https://github.com/LordDog52/About-me)
 # Hello, geeks! 👋
@@ -17,12 +17,12 @@ Hello there my name is Farhan Abdullah Yunus currently i'm doing nothing
 
 
 ### ⚡ One line that describes me best? 
-An delusional man who loves to eat, exercise at nights and sometime codes too.😉😉
+An delusional man who loves to eat, exercise at nights and sometime do Astral Projection too.😉😉
 
 ### 📫 How to reach me?
 - [Gmail](gmail) 
 
-
+[![Lord Dog stats](https://github-readme-stats.vercel.app/api?username=LordDog52)](https://github.com/LordDog52/About-me)
 
 
 <p align="center"> 
