@@ -23,7 +23,7 @@ An delusional man who loves to eat, exercise at nights and sometime do Astral Pr
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/LordDog52/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>
